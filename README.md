@@ -260,6 +260,11 @@ Vector DB created successfully
 ```bash
 python doctor_copilot.py
 ```
+Enter query when
+```text
+Enter your query:
+```
+appears in terminal
 
 Example Query:
 

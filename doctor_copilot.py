@@ -74,9 +74,7 @@ if __name__ == "__main__":
 
     copilot = DoctorCopilot()
 
-    query = (
-        "Summarize the previous cardiac complications for patient PT-8829"
-    )
+    query = input("Enter your query: ")
 
     answer = copilot.ask(query)
 
