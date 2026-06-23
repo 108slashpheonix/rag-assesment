@@ -1,0 +1,72 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.faiss
+*.jsonl
+*.pkl
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+patient_records_db/
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+env/
+env.bak/
+
+# Testing
+.pytest_cache/
+.tox/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+.log
+logs/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Wheel
+*.whl
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# Local settings
+local_settings.py
